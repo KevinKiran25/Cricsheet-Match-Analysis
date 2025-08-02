@@ -75,7 +75,7 @@ Power BI visualizes unique insights for each match type. Each page includes 4 in
 
 Minimal Google Slides-style deck summarizing the entire flow — from web scraping to dashboards. Ideal for walkthroughs or showcasing on portfolios.
 
-**[Download Project Presentation (.pptx)](https://docs.google.com/presentation/d/1a-E5x1QTZUsOZ1qCX8PWXXu8oS2U7Obc/edit?usp=sharing&ouid=100203989646111117568&rtpof=true&sd=true)**
+[Download Project Presentation (.pptx)](https://docs.google.com/presentation/d/1a-E5x1QTZUsOZ1qCX8PWXXu8oS2U7Obc/edit?usp=sharing&ouid=100203989646111117568&rtpof=true&sd=true)
 
 ---
 
