@@ -65,8 +65,7 @@ Power BI visualizes unique insights for each match type. Each page includes 4 in
 - Slicers included for filtering by **season**, **venue**, or **team**, enabling dynamic interaction  
 - Clear layout designed for non-technical stakeholders  
 
-**[Download Power BI Dashboard (.pbix)](Cricsheet_Visual_Dashboard.pbix)**  
-(Requires [Power BI Desktop](https://drive.google.com/file/d/11NzplZg9EUx-xDhk5Qw6uL8DwaCbQWJA/view?usp=drive_link))
+**[Download Power BI Dashboard (.pbix)](Power BI Desktop](https://drive.google.com/file/d/11NzplZg9EUx-xDhk5Qw6uL8DwaCbQWJA/view?usp=drive_link))**  
 
 <br>
 
