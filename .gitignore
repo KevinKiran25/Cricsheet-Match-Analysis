@@ -1,0 +1,19 @@
+# Python Cache and Virtual Environment 
+proj_env/
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data folders
+data/
+processed_data/
+
+# Large Power BI file
+Cricsheet_Visual_Dashboard.pbix
+
+# Presentation file about the project
+Cricsheet_Data_Project_Presentation.pptx
+
+# contains DB credentials
+.env
